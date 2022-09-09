@@ -1,0 +1,57 @@
+.container{
+    width: 5000px;
+    height: auto;
+    margin: auto;
+    background-color: aqua;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    border: 2px solid black;
+    background-color: blue;
+}
+.header-logo{
+    height: 30px;
+    border: 2px solid black;
+    background-color: red;
+}
+.header-menu{
+    width: 900px;
+    height: 30px;
+    border: 2px solid black;
+    background-color: greenyellow;
+    word-spacing: 1cm;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.banner-text{
+    width: 500px;
+    height: 700px;
+    word-spacing: 1cm;
+    float: left;
+    font-size: xx-large;
+}
+.banner-img{
+    width: 600px;
+    height: 700px;
+    float: right;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.about-text{
+    width: 600px;
+    height: 500px;
+    word-spacing: 1cm;
+    float: right;
+    font-size: x-large;
+}
+.about-img{
+    width: 600px;
+    height: 500px;
+    float: left;
+}
